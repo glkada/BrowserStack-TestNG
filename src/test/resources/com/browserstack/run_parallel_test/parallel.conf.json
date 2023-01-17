@@ -7,7 +7,7 @@
     "project": "827910-Parallel",
     "build": "Parallel Sessions",
     "browserstack.debug": true,
-    "app": "bs://1a31ca438abfc4cfe5fb9bc3736a3ceedcbc464c"
+    "app": "Your App URL"
   },
 
   "environments": [
